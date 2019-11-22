@@ -1,0 +1,21 @@
+{
+  "name": "lora_ipe",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "crypto-random-string": "^3.0.1",
+    "express": "^4.17.1",
+    "jsonpath": "^1.0.2",
+    "mqtt": "^2.18.8",
+    "sync-request": "^4.1.0",
+    "ttn": "^2.3.3"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
